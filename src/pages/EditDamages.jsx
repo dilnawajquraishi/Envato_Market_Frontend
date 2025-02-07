@@ -104,7 +104,7 @@ const EditDamages = () => {
                                                 </div>
 
                                                 <div>
-                                                    <label htmlFor="" className="text-base font-medium text-gray">
+                                                     <label htmlFor="" className="text-base font-medium text-gray">
                                                         {' '}
                                                         Reference No<span className='text-success px-1'>*</span>
                                                     </label>
